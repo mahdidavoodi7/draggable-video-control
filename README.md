@@ -1,5 +1,8 @@
 # ▶️ Draggable Video Controls
 
+A free drop from **Motionary**. The whole flock lives at **https://motionary.dev**.
+
+
 A smooth, interactive video player UI built with:
 
 - [Expo](https://expo.dev)
@@ -54,6 +57,21 @@ Inspired by playful drag interactions in CreateWithPlay App, especially the flui
 • Software Mansion for Reanimated + Gesture Handler
 • Apple SF Symbols for the icons
 
-## 📄 License
+## Want the rest?
 
-MIT — feel free to fork, modify, and build something cool with it.
+The paid catalog is at
+[motionary.dev](https://motionary.dev?utm_source=github&utm_medium=readme&utm_campaign=free_drop):
+the ChatGPT attachments menu, Apple Music lyrics, Flip Calendar, and every drop that
+comes next. Single drops around $10, or the Lifetime All-Access pass: one payment,
+every drop, every future drop.
+
+## Want a drop that doesn't exist yet?
+
+Open an issue and describe the interaction. The most-requested ones get built.
+
+## License
+
+MIT. Use it in anything, ship it, sell your app, no strings. If it saves you a day, a
+star helps other devs find this. 🐦‍⬛
+
+Built by [@mehdi_made](https://x.com/mehdi_made)
