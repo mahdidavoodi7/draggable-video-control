@@ -1,6 +1,6 @@
 # ▶️ Draggable Video Controls
 
-A free drop from **Motionary**. The whole flock lives at **https://motionary.dev**.
+A free drop from **Motionary**. The whole flock lives at **https://motionary.dev**. Related: [Glass Video Player](https://motionary.dev/animations/glass-video-player).
 
 
 A smooth, interactive video player UI built with:
